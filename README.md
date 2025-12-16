@@ -1,7 +1,8 @@
-## 👋 Olá, eu me chamo Igor 
+## 👋 Olá, eu sou o Igor 
 
 Sou desenvolvedor de software com foco em backend, APIs REST e boas práticas de engenharia.
-No momento, atuo principalmente com Java e Python. Estou em constante busca de evoluir tecnicamente rumo a posições de maior impacto. 
+
+Atuo principalmente com Java e Python. Estou em constante busca de evoluir tecnicamente rumo a posições de maior impacto. 
 
 <!--
 **IgorVHau/IgorVHau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
