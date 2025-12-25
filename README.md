@@ -1,8 +1,10 @@
-## 👋 Olá, eu sou o Igor | Hi, I'm Igor
+<h1 align="center">👋 Olá, eu sou o Igor | Hi, I'm Igor</h1>
 
-![Java](https://img.shields.io/badge/Java-Backend-blue)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-API-green)
-![Python](https://img.shields.io/badge/Python-Developer-yellow)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-blue">
+  <img src="https://img.shields.io/badge/Spring_Boot-API-green">
+  <img src="https://img.shields.io/badge/Python-Developer-yellow">
+</p>
 
 🇧🇷 [Português](#-sobre-mim) | 🇺🇸 [English](#-about-me)
 
