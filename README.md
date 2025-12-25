@@ -8,7 +8,6 @@
 
 🇧🇷 [Português](#-sobre-mim) | 🇺🇸 [English](#-about-me)
 
----
 ## 🇧🇷 Sobre mim
 
 Sou desenvolvedor de software com foco em backend, APIs REST e construção de soluções com regras de negócio bem definidas.
@@ -17,7 +16,6 @@ Atuo principalmente com Java (Spring Boot) e Python, valorizando código claro, 
 
 Atualmente, estou focado em evoluir tecnicamente para atuar em projetos de maior complexidade e impacto.
 
----
 ## 🇺🇸 About me
 
 I am a software developer focused on backend development, REST APIs and building solutions with well-defined business rules.
