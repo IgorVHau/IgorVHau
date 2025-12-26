@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Igor | Hi, I'm Igor</h1>
+<h1 align="center"><img src="assets/images/gifs/Waving.gif" width="30"> Olá, eu sou o Igor | Hi, I'm Igor</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Backend-blue">
