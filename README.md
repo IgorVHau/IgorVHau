@@ -1,9 +1,9 @@
 <h1 align="center"><img src="assets/images/gifs/Waving.gif" width="30"> Olá, eu sou o Igor | Hi, I'm Igor</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend-blue">
-  <img src="https://img.shields.io/badge/Spring_Boot-API-green">
-  <img src="https://img.shields.io/badge/Python-Developer-yellow">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=F89820">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998">
 </p>
 
 <img src="assets/images/flags/br.svg" width="16"> [Português](#-sobre-mim) | <img src="assets/images/flags/us.svg" width="16"> [English](#-about-me)
